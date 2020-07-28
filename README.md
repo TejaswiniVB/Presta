@@ -3,8 +3,8 @@
 ### Submitted by : Team Reboot
 
 #### Team members:
-Tejaswini V Balaji
-Ganavi L
+Tejaswini V Balaji, 
+Ganavi L,
 Tushar Sethi
 
 ### Problem Statement : Create a micro-blogging application.
